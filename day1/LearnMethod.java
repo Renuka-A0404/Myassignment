@@ -1,0 +1,15 @@
+package week1.day1;
+
+public class LearnMethod {
+
+	public static void main(String[] args) {
+		LearnDataTypes1 method = new LearnDataTypes1();
+		method.add(10,10);
+		method.colourCar();
+		System.out.println(method.isPuncture);
+		System.out.println(method.noOfWheels);
+		System.out.println(method.regNumber);
+		
+	}
+
+}
